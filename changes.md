@@ -1,5 +1,16 @@
 # Changes
 
+## 2026-04-07
+* new tile generator
+* new markdown system using 3rd party parser
+* promotion of trails
+* first step on new theme management
+* new main menu design
+* Move image carusel to markdown
+* WYSIWYG handle pasted text!
+* Markdown + wysiwyg editor support grid
+* auto get poi / route close to edited page for easy linking
+
 ## 2023-07-23
 * Custom markdown pages
 * Improved mobile support. Now users can minimize current page to the left/bottom of the screen to see the map
