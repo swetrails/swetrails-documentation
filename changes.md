@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-08-28
+* POI api returns `type` as a list of keywords instead of one run-together string
+* The keyword list is published in the api description, so it can be read without knowing it up front
+
 ## 2026-04-07
 * new tile generator
 * new markdown system using 3rd party parser
