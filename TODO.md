@@ -3,8 +3,6 @@
 ## High
 * Unable to update route from mobile phones 
 * Orientation on currently uploading images in image rotate thing.
-* Upload private gpx tracks (only visible for the user)
-* Blog support (Custom markdown pages)
 * Page support (partially implemented but not fully, for tutorials on hiking and such)
 * AI assistant to help with spellchecking and grammar in markdown and wysiwyg, auto injection of links
 
@@ -23,7 +21,6 @@
 # Backend
 
 ## High
-* Fix the email server to work with the new email system (currently not working)
 * jpeg endings can be converted to jpg. and then they don't match.
 * Send email when new images has been added for verification
 
